@@ -3,6 +3,5 @@ A reverse proxy implementation in various programming languages, such as Python,
 
 ## Languages 
  - Python
- - Go
  - Java
  - Node.js
